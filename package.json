@@ -1,8 +1,9 @@
 {
-  "name": "chopp-finan-app-with-mantis",
-  "version": "0.0.1",
-  "author": "Gabriel Choptian",
-  "license": "CC0-1.0",
+  "name": "mantis-free-angular-admin-template",
+  "version": "3.0.1",
+  "author": "",
+  "license": "MIT",
+  "requires": true,
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
